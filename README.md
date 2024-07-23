@@ -9,7 +9,7 @@ Business problem : British airways (BA) want to understand how people view BA cu
 For this task, I did web scraping using the beautifulsoup library on the following website: https://www.airlinequality.com/airline-reviews/british-airways
 
 from that website, I take the information I need like customer reviews and services ratings. then I analyze the data resulting to the below insight :
-![image](https://github.com/Ibrahimjnr10/British-airways-forage-Internship/edit/main/TASK%201/Plots/Frequent_words.png)
+![Frequent_words](https://github.com/user-attachments/assets/febda719-ff13-4e20-90a3-dc69236ae6d1)  
 
 From the wordcloud above, we can see the key of topics in customer review are flight, seat , service and time. showing that people are actively talking about their experience on the plane and the staff.
 

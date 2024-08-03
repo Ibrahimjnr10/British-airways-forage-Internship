@@ -17,7 +17,7 @@ but it's a good review or bad review? let's analyze more deeply.
 
 ![recommend](https://github.com/user-attachments/assets/961a4bba-b76d-4631-b905-ee0613d4b0e2)
 
-little more of our customers are satisfied with their flights compared to those who are dissatisfied, what are the reasons?
+63% of our customers are dissatisfied with their flights, what are the reasons?
 
 ![avg_ratings](https://github.com/user-attachments/assets/ef77eba7-58ec-4687-819f-5a439d130b37)
 

@@ -15,22 +15,22 @@ From the wordcloud above, we can see the key of topics in customer review are fl
 
 but it's a good review or bad review? let's analyze more deeply.
 
-![image](https://user-images.githubusercontent.com/94748637/204512837-5b809db4-70a9-4130-a09b-a6ad4e144137.png)
+![recommend](https://github.com/user-attachments/assets/961a4bba-b76d-4631-b905-ee0613d4b0e2)
 
-63.3% of our customers are dissatisfied with their flights, what are the reasons?
+little more of our customers are satisfied with their flights compared to those who are dissatisfied, what are the reasons?
 
-![image](https://user-images.githubusercontent.com/94748637/204498621-faf29646-b71c-4ad9-bdb3-9cd07924a4a9.png)
+![avg_ratings](https://github.com/user-attachments/assets/ef77eba7-58ec-4687-819f-5a439d130b37)
 
-on the picture above, we can see the average rating each service is low. the lower is the value of money and food and beverages, so I analyze that service and what I found are:
+on the picture above, we can see the average rating each service is low. the lower is the ground services and food and beverages, so I analyze that service and what I found are:
 
 1. for the food and beverages, customers complain because the time to receive food orders is too long and too few food choices, then for free catering all you get is a bottle of water and a packet of crisps,
 
-2. for the value of money, customers complain because the time to get a refund is too long, there are even some customers who are forced to use vouchers which make them spend more money, then there are delays from flights that are quite long
+2. for the ground services, customers complain because the handling of luggages and verification process toke longer time than expected.
 
 then for this problem, I propose :
 1. Give them better free catering such as customers can choose to get water or soda, then for food they can be given pastries or bread so they feel more full
 2. Highlight services can order food and drinks before the flight so they can order before the flight and we can prepare those orders more quickly
-3. Give the valueable voucher to customer and provide education to employees so as not to force customers to use vouchers
+3. Give the valueable voucher to customer and provide education to employees so as not to force customers to use vouchers and speed up verification processes 
 
 ## Task 2 : Predicting customer buying behaviour
 

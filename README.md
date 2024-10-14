@@ -57,3 +57,31 @@ There are 2 features that greatly affect whether the booking process will be com
 so to solve the problem, Amongst my recommendation I suggest to :
 1. Providing attractive offers such as getting a higher discount if customer order before 30 days of flight.
 2. Provide rescheduling options to customers with a maximum deadline of 3 days before the flight.
+
+## Link to the slides
+https://docs.google.com/presentation/d/1Za0fjvwVDgwUDtpbk0lDIM5AiD2BVfoKlikpKDLK8Pk/edit?usp=sharing
+
+## Link to the documentation
+https://medium.com/@abdulsalamibrahima017/unlocking-insights-a-deep-dive-into-british-airways-passenger-experience-f62e6cfff597
+
+## Folders present in the project:
+- Web scrape
+- Sentiment Analysis
+- EDA
+  
+Conclusion
+By leveraging insights from these projects, British Airways can proactively address customer concerns, enhance service offerings, and explore new growth opportunities. This repository provides the necessary scripts and datasets for replicating the analysis and driving data-driven decisions in the aviation industry.
+
+How to Run
+Clone this repository.
+Install the required dependencies.
+Run the scripts for each project as described in their respective sections.
+bash
+Copy code
+git clone <repository_url>
+cd <repository_name>
+pip install -r requirements.txt
+python <script_name.py>
+
+License
+This repository is licensed under the MIT License. See the LICENSE file for more details.

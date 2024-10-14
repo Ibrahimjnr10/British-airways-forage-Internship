@@ -60,7 +60,8 @@ so to solve the problem, Amongst my recommendation I suggest to :
 
 ## Link to the slides
 https://docs.google.com/presentation/d/1Za0fjvwVDgwUDtpbk0lDIM5AiD2BVfoKlikpKDLK8Pk/edit?usp=sharing
- https://bit.ly/3SgPfu5
+
+https://bit.ly/3SgPfu5
 
 ## Link to the documentation
 https://medium.com/@abdulsalamibrahima017/unlocking-insights-a-deep-dive-into-british-airways-passenger-experience-f62e6cfff597

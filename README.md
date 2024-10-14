@@ -9,15 +9,17 @@ Business problem : British airways (BA) want to understand how people view BA cu
 For this task, I did web scraping using the beautifulsoup library on the following website: https://www.airlinequality.com/airline-reviews/british-airways
 
 from that website, I take the information I need like customer reviews and services ratings. then I analyze the data resulting to the below insight :
+
 ![Frequent_words](https://github.com/user-attachments/assets/febda719-ff13-4e20-90a3-dc69236ae6d1)  
 
 From the wordcloud above, we can see the key of topics in customer review are flight, seat , service and time. showing that people are actively talking about their experience on the plane and the staff.
 
 but it's a good review or bad review? let's analyze more deeply.
 
-![recommend](https://github.com/user-attachments/assets/961a4bba-b76d-4631-b905-ee0613d4b0e2)
+![recommend](https://github.com/user-attachments/assets/51970ca7-4550-4e77-a1c9-eb3e8c377321)
 
-63% of our customers are dissatisfied with their flights, what are the reasons?
+
+53% of our customers are dissatisfied with their flights, what are the reasons?
 
 ![avg_ratings](https://github.com/user-attachments/assets/ef77eba7-58ec-4687-819f-5a439d130b37)
 
@@ -44,7 +46,7 @@ out of 50,000 booking processes made by customers, only 7,474 booking processes 
 
 To find out, I made a machine learning model to take the feature importance, the results are:
 
-![image](https://user-images.githubusercontent.com/94748637/204530985-a76169d0-4cdd-4def-a197-49bcdc5726f1.png)
+![Feature importance](https://github.com/user-attachments/assets/0480dfb2-8906-4bad-9a77-39544165b8c6)
 
 There are 2 features that greatly affect whether the booking process will be completed by the customer :
 1. Purchase_lead (number of days between travel date and booking date)
@@ -52,6 +54,6 @@ There are 2 features that greatly affect whether the booking process will be com
 2. Length_of_stay
    the same as purchase leads, where the average value of length_of_stay from bookings that are not completed is higher than bookings that are completed
 
-so to solve the problem, I suggest to :
+so to solve the problem, Amongst my recommendation I suggest to :
 1. Providing attractive offers such as getting a higher discount if customer order before 30 days of flight.
 2. Provide rescheduling options to customers with a maximum deadline of 3 days before the flight.
